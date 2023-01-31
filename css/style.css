@@ -14,18 +14,17 @@
 }
 .big-text {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
+
     
 }
 .texts {
     display: flex;
     flex-direction: column;
-    margin: 277px auto;
 }
 .pair {
     width: 801px;
     height: 526,63px;
-    margin: 261px auto;
 }
 #text-1 {
     font-size: 78px;
