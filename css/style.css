@@ -1,8 +1,44 @@
-.logo {
-    margin: 0 auto;
-}   
+
 .headers {
     color: #3D37F1;
-    margin: 0 auto 0 937px;
     vertical-align: middle;
+    width: 596px;
+    height: 27px;
+    display: flex;
+    justify-content: space-between;
+}
+#head {
+    display: flex;
+    justify-content:space-around;
+    margin: 0 auto;
+}
+.big-text {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.texts {
+    display: flex;
+    flex-direction: column;
+    margin: 277px auto;
+}
+.pair {
+    width: 801px;
+    height: 526,63px;
+    margin: 261px auto;
+}
+#text-1 {
+    font-size: 78px;
+    font-family: 'Lato', sans-serif ;
+    color: #534D4D;
+    width: 636px;
+    height: 213px;
+    margin-bottom: 39px;
+}
+#text-2 {
+    font-size: 22px;
+    font-family: 'Roboto', sans-serif;
+    color: #534D4D;
+    width: 602px;
+    height: 103px;
 }
