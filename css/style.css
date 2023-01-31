@@ -1,0 +1,30 @@
+
+#header{
+	display: flex;
+	justify-content: center; 
+	margin-top: 64px;
+	font-family: 'Lato';
+}
+.logo{
+	max-width: 300px;
+	width: 100%;
+}
+.navigation{
+    max-width: 1724px;
+	width: 100%;
+	display: flex;
+	align-items: center;  
+	justify-content: space-between;
+	font-family: 'Lato';
+}
+.navi-2{
+	max-width: 596px;
+	width: 100%;
+	display: flex;
+	align-items: center; 
+	justify-content: space-between;
+}
+
+.nav-item{
+	color: #3D37F1;
+}
