@@ -83,6 +83,31 @@
     margin-top: 261px;
     margin-right: 20px;
 }
-.container-2 {
-    
+.main-txt-2 {
+    display: flex;
+    flex-direction: column;
+    width: 710px;
+    height: 195px;   
+}
+.text-serv {
+    font-size: 20px;
+    color: #3D37F1;
+    font-family: 'Lato',sans-serif;
+}
+.blocks {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 1200px;
+}
+.block-1 {
+    width: 370px;
+    height: 451px;
+    background-color: #FBBA77;
+    display: flex;
+    flex-direction: column;
+}
+.imgs {
+    width: 100px;
+    height: 100px;
 }
