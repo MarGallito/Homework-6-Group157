@@ -2,7 +2,7 @@
 #header{
 	display: flex;
 	justify-content: center; 
-	margin-top: 64px auto;
+	margin: 64px auto 0 auto;
 	font-family: 'Lato', sans-serif;
 }
 .logo{
@@ -99,7 +99,7 @@
 .text-serv {
     margin-bottom: 12px;
     font-size: 20px;
-    font-weight: 500px;
+    font-weight: 500;
     color: #3D37F1;
     font-family: 'Lato',sans-serif;
     text-align: center;
